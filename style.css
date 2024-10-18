@@ -93,6 +93,7 @@ p {
     color: #fff;
     background: #00a4e5;
     border: none;
+    cursor: pointer;
 }
 
 .capibilities .cap-top .cap-top-our .line{
